@@ -11,7 +11,7 @@ public class Main{
 		product.setPrice(250.0);
 
 		product.showProductDetails();	
-		System.out.println("Manikanta");
+		System.out.println("ganesh");
 
 	}
 
